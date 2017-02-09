@@ -1,5 +1,3 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 # 🌟 Starbot
 
 ![Starbot](https://heroku-www-files.s3.amazonaws.com/starbot/starbot-banner.png)
